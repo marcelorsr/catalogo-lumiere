@@ -1,8 +1,8 @@
-This repository - https://github.com/greyscalepress/catalogue-lumiere - contains a list of the 1428 identified films produced by the Lumière company between 1895-1905.
+Este reporsitório - https://github.com/marcelorsr/catalogo-lumiere contém uma lista dos 1428 filmes identificados que foram produzidos pela companhia Lumière entre 1895-1905. Trata-se de uma tradução em língua portuguesa do repositório Catalogue Lumière - https://github.com/greyscalepress/catalogue-lumiere.
 
-The list comes as a simple CSV file, containing a set of metadata for each title. 
+A lista está disponível como um arquivo CSV que contém um conjunto de metadados sobre cada título.
 
-The data is also available through the website http://catalogue-lumiere.com/ which offers an interface for browsing / searching through specific parameters.
+Os dados originais estão também disponíveis por meio do site http://catalogue-lumiere.com/, que oferece uma interface para navegação e para busca por meio de parâmetros específicos.
 
 ## Understanding the data
 
