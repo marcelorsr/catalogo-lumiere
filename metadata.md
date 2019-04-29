@@ -18,7 +18,7 @@ Mais alguns detalhes sobre a classificação:
 13. cidades e paisagens
 14. vista cômica
 
-## Movimento (id-mov)
+## Movimento (id-mouv)
 Tipo de movimento (chegada, partida...). 9 elementos.
 
 1. Chegada
@@ -31,7 +31,7 @@ Tipo de movimento (chegada, partida...). 9 elementos.
 8. Exercícios e manobras
 9. Saída
 
-## Evento (id-eventos)
+## Evento (id-events)
 1. cerimônia (111)
 2. competição
 3. dança
@@ -46,7 +46,7 @@ Tipo de movimento (chegada, partida...). 9 elementos.
 12. tauromaquia (29)
 13. viagem oficial (132)
 
-## id-objeto
+## id-objet
 Motiveos (trem, barco, máquinas...). 19 elementos.
 
 1. Aeróstato
@@ -69,7 +69,7 @@ Motiveos (trem, barco, máquinas...). 19 elementos.
 18. Veículo automotivo
 19. Veículo puxado por cavalo
 
-## tema: 
+## sujet:
 
 1 acrobata e equilibrista (48)
 2 agricultor (13)
@@ -90,7 +90,7 @@ Motiveos (trem, barco, máquinas...). 19 elementos.
 17 soldado
 
 
-## técnica
+## technique
 1. Parada de câmera (62)
 2. Mudança de eixo (16)
 3. Emenda (57)
@@ -101,7 +101,7 @@ Motiveos (trem, barco, máquinas...). 19 elementos.
 8. *Travelling*
 9. Trucagem
 
-## Local
+## Lieu
 1. abatedouro
 2. arena
 3. arsenal
@@ -136,11 +136,11 @@ Motiveos (trem, barco, máquinas...). 19 elementos.
 32. cidade
 33. zoológico
 
-## Identidades: 
+## Identités:
 
 55. Henry Walter Barnett
 
-## Textos:
+## Textes:
 Félix Mesguich
 Chiens savants
 
