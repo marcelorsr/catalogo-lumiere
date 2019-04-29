@@ -38,7 +38,7 @@ Eis a explicação da tabela:
 28. "pessoas": notas sobre pessoas que aparecem no filme.
 29. "tecnica": detalhes técnicos sobre o processo de filmagem (movimentos de câmera, etc.).
 30. "id-objeto": motivos (trem, barco, máquinas...). 19 elementos.
-31. "id-mov": tipo de ação (chegada, partida...). 9 elementis.
+31. "id-mov": tipo de ação (chegada, partida...). 9 elementos.
 32. "suporte": detalhes técnicos sobre o negativo fílmico.
 
 ## Fonte dos dados
