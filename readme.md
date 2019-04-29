@@ -1,4 +1,4 @@
-Este reporsitório - https://github.com/marcelorsr/catalogo-lumiere contém uma lista dos 1428 filmes identificados que foram produzidos pela companhia Lumière entre 1895-1905. Trata-se de uma tradução em língua portuguesa do repositório Catalogue Lumière - https://github.com/greyscalepress/catalogue-lumiere.
+Este repositório - https://github.com/marcelorsr/catalogo-lumiere contém uma lista dos 1428 filmes identificados que foram produzidos pela companhia Lumière entre 1895-1905. Trata-se de uma tradução em língua portuguesa do repositório Catalogue Lumière - https://github.com/greyscalepress/catalogue-lumiere.
 
 A lista está disponível como um arquivo CSV que contém um conjunto de metadados sobre cada título.
 
