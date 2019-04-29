@@ -4,64 +4,64 @@ A lista está disponível como um arquivo CSV que contém um conjunto de metadad
 
 Os dados originais estão também disponíveis por meio do site http://catalogue-lumiere.com/, que oferece uma interface para navegação e para busca por meio de parâmetros específicos.
 
-## Understanding the data
+## Entendendo os dados
 
-Here is the key to the table:
+Eis a explicação da tabela:
 
-1. "Numero-original": the original catalog number of the film, as it appeared in the Lumiere catalog.
-2. "Numero-livre": The item number that was used by the researchers (Michelle Aubert and Jean-Claude Seguin) in their book "La production cinématographique des Frères Lumière" in 1996.
-3. "titre": The title of the film.
-4. "id-operateur": numerical ID of the camera operator.
-5. "operateur": name of the operator.
-6. "remarque": comments and notes.
-7. "description": the original item description, from the Lumière catalogue.
-8. "projection": information about screenings (when, where...) 
-9. "lieu": human-readable location names (where it was filmed).
-10. "id-pays": country-ID.
-11. "id-ville": city-ID.
-12. "id-lieux": location-ID (mountain, seaside, train station, zoo...). 33 elements.
-13. "date": human readable date of production.
-14. "timestamp": machine-readable date stamp (approximate date of production).
-15. "info-1": mysterious metadata.
-16. "info-2": mysterious metadata.
-17. "info-3": mysterious metadata.
-18. "info-4": mysterious metadata.
-19. "info-5": mysterious metadata.
-20. "info-6": mysterious metadata.
-21. "info-7": mysterious metadata.
-22. "id-events": mysterious metadata.
-23. "id-genres": mysterious metadata. 14 elements.
-24. "id-sujet": types of people (acrobats, peasants, children...).
-25. "id-identity": numerical ID of persons appearing in the film.
-26. "sequence-1": mysterious metadata.
-27. "sequence-2": mysterious metadata.
-28. "personnes": notes about persons appearing in the film.
-29. "technique": technical details about the filming process (camera motions, etc).
-30. "id-objet": motives (train, boat, machines...). 19 elements.
-31. "id-mouv": type of action (arrival, departure...). 9 elements.
-32. "support": technical details about the film negative.
+1. "Numero-original": o número de catalogação do filme, tal como apareceu no catálogo Lumière.
+2. "Numero-livre": O número de item que foi usado pelos pesquisadores (Michelle Aubert e Jean-Claude Seguin) em seu livro "A produção cinematográfica dos Irmãos Lumière" (título original: "La production cinématographique des Frères Lumière"; tradução livre) em 1996.
+3. "titulo": O título do filme.
+4. "id-cinegrafista": identificação numérica do operador de câmera (cinegrafista).
+5. "cinegrafista": nome do cinegrafista.
+6. "notas": comentários e anotações.
+7. "descricao": a descrição original do item, extraída do catálogo Lumière.
+8. "projecao": informação sobre exibições (quando, onde...).
+9. "local": nomes de localizações legíveis por humanos (onde foi filmado).
+10. "id-pais": identificação de país.
+11. "id-cidade": identificação de cidade.
+12. "id-local": identificação de local (montanha, costa, estação de trem, zoológico...). 33 elementos.
+13. "data": data de produção legível por humanos.
+14. "timestamp": marcação de data legível por máquinas (data aproximada de produção).
+15. "info-1": metadados misteriosos.
+16. "info-2": metadados misteriosos.
+17. "info-3": metadados misteriosos.
+18. "info-4": metadados misteriosos.
+19. "info-5": metadados misteriosos.
+20. "info-6": metadados misteriosos.
+21. "info-7": metadados misteriosos.
+22. "id-eventos": metadados misteriosos.
+23. "id-generos": metadados misteriosos. 14 elementos.
+24. "id-tema": tipos de pessoas (acrobatas, camponeses, crianças...).
+25. "id-identidade": identificação numérica de pessoas que aparecem no filme.
+26. "sequencia-1": metadados misteriosos.
+27. "sequencia-2": metadados misteriosos.
+28. "pessoas": notas sobre pessoas que aparecem no filme.
+29. "tecnica": detalhes técnicos sobre o processo de filmagem (movimentos de câmera, etc.).
+30. "id-objeto": motivos (trem, barco, máquinas...). 19 elementos.
+31. "id-mov": tipo de ação (chegada, partida...). 9 elementis.
+32. "suporte": detalhes técnicos sobre o negativo fílmico.
 
-## Source of the data
+## Fonte dos dados
 
-The data has been extracted from the CD-Rom that accompanies the book "La production cinématographique des Frères Lumière", published 1996 by the Centre national de la Cinématographie and Université Lumière-Lyon 2.
+Os dados foram extraídos do CD-Rom que acompanha o livro "A produção cinematográfica dos Irmãos Lumière", publicado em 1996 pelo Centre national de la Cinématographie e pela Université Lumière-Lyon 2.
 
-This catalogue is out-of-print, and will be hard to get, unless you have access to a good academic library.
+Este catálogo está esgotado, e será difícil de acessar, a não ser que você tenha acesso a uma boa biblioteca acadêmica.
 
-The CD-Rom contains a bibliographic application, made in Macromedia Director. It was targeted for MacOS System 7 and Windows 95, and is unreadable on current operating systems.
+O CD-Rom contém uma aplicação bibliográfica, feita no Macromedia Director. Destinava-se ao sistema MacOS 7 e ao Windows 95, e não é legível nos atuais sistemas operacionais.
 
-However, the raw binary files of the CD-Rom contain some readable text data, which I was able to retrieve.
+Entretanto, os arquivos binários brutos do CD-Rom contêm alguns dados de texto legíveis, que fui capaz de recuperar.
 
-With some GREP magic, I produced this CSV table, that holds the essential metadata for the 1428 identified movies from the Lumiere catalogue.
+Com alguma mágica do GREP, produzi esta tabela de CSV, que resguarda os metadados essenciais para os 1428 filmes identificados do catálogo Lumière.
 
-## What's the copyright of that data? Is it public domain?
+## Qual é a situação de direitos autorais desses dados? Estão em domínio público?
 
-The research team that produced this list gathered all the information from the original trade catalogues of the Lumière company (published 1897-1907), from newspapers published in that time period, and from an inventory established by the Cinémathèque française in 1948.
+A equipe de pesquisa que produziu esta lista reuniu todas as informações dos catálogos comerciais originais da companhia Lumière (publicados entre 1897 e 1907), de jornais publicados naquele intervalo de tempo, e de um inventário estabelecido pela Cinemateca Francesa em 1948.
 
-It's pretty much impossible to establish a clear copyright situation for this type of metadata. 
+É basicamente impossível estabelecer uma situação de direitos autorais nítida para esse tipo de metadados.
 
-Personally, I place all my contributions to this set of metadata under the Creative Commons Zero Public Domain Dedication (CC0), in order to facilitate research.
+Pessoalmente, coloco todas as minhas contribuições para esse conjunto de metadados sob a licença Creative Commons Zero Public Domain Dedication (CC0), de modo a facilitar a pesquisa.
 
 Manuel Schmalstieg<br/>
-Digital archivist<br/>
-December 2013
+Arquivista digital<br/>
+Dezembro de 2013
 
