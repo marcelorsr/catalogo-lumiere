@@ -1,146 +1,146 @@
-# Metadata
+# Metadados
 
-Some more details about the classification:
+Mais alguns detalhes sobre a classificação:
 
-## Genre
-1. art
-2. comédie
-3. coutumes
-4. distraction
-5. événement officiel
-6. famille
-7. militaire
-8. publicité
-9. religion
-10. spectacle
-11. sport
-12. travail
-13. villes et paysages
-14. vue comique
+## Gênero
+1. arte
+2. comédia
+3. roupas
+4. distração
+5. evento oficial
+6. família
+7. militar
+8. publicidade
+9. religião
+10. espetáculo
+11. esporte
+12. trabalho
+13. cidades e paisagens
+14. vista cômica
 
-## Mouvement (id-mouv)
-Type of motion (arrival, departure...). 9 elements.
+## Movimento (id-mov)
+Tipo de movimento (chegada, partida...). 9 elementos.
 
-1. Arrivée
-2. Circulation urbaine
-3. Débarquement
-4. Défilé
-5. Départ
-6. Embarquement
-7. Entrée
-8. Exercices et manœuvres
-9. Sortie
+1. Chegada
+2. Circulação urbana
+3. Desembarque
+4. Desfile
+5. Partida
+6. Embarque
+7. Entrada
+8. Exercícios e manobras
+9. Saída
 
-## Evénement (id-event)
-1. cérémonie (111)
-2. compétition
-3. danse
-4. affrontement
-5. exposition
-6. fête
-7. funérailles (23)
-8. inondation (6)
-9. lancement de navire (6)
-10. parade militaire (74)
-11. scène historique reconstituée (13)
-12. tauromachie (29)
-13. voyage officiel (132)
+## Evento (id-eventos)
+1. cerimônia (111)
+2. competição
+3. dança
+4. confronto
+5. exposição
+6. festa
+7. funeral (23)
+8. inundação (6)
+9. lançamento de navio (6)
+10. parada militar (74)
+11. cena histórica reconstituída (13)
+12. tauromaquia (29)
+13. viagem oficial (132)
 
-## id-objet
-Motives (train, boat, machines...). 19 elements.
+## id-objeto
+Motiveos (trem, barco, máquinas...). 19 elementos.
 
-1. Aérostat
-2. Arme
-3. bateau
-4. bicyclette
-5. chars et voitures fleuries
-6. caméra
-7. costumes
-8. funiculaire
-9. Instrument de jeu
-10. Instrument de musique
-11. Machine et outil
-12. manège
-13. Pousse-pousse et chaise à porteur
-14. Train
-15. Tramway électrique
-16. Tramway hippomobile et omnibus
-17. Trottoir roulant
-18. Voiture automobile
-19. Voiture hippomobile
+1. Aeróstato
+2. Arma
+3. barco
+4. bicileta
+5. carroças e carros de flores
+6. câmera
+7. roupas
+8. funicular
+9. Instrumento de jogo
+10. Instrumento de música
+11. Máquina e ferramenta
+12. parque
+13. Riquixá e liteira
+14. Trem
+15. Bonde elétrico
+16. Bonde puxado por cavalo e ônibus
+17. Calçada rolante
+18. Veículo automotivo
+19. Veículo puxado por cavalo
 
-## sujet: 
+## tema: 
 
-1 acrobate et équilibriste (48)
-2 agriculteur (13)
+1 acrobata e equilibrista (48)
+2 agricultor (13)
 3 animal
-4 opérateur
-5 clown
-6 comédien
-7 danseur
-8 dresseur
-9 enfant
-10 groupe ethnique
-11 marin
-12 ouvrier
-13 pêcheur
-14 personnalité
-15 pompier
-16 religieux
-17 soldat
+4 operador
+5 palhaço
+6 ator
+7 dançarino
+8 instrutor
+9 criança
+10 grupo étnico
+11 marinheiro
+12 operário
+13 pescador
+14 personnalidade
+15 bombeiro
+16 religiosos
+17 soldado
 
 
-## technique
-1. Arrêt caméra (62)
-2. Changement d'axe (16)
-3. Collure (57)
-4. Couleur (5)
-5. Longueur
-6. Multiplan
-7. Plongée
-8. Travelling
-9. Trucage
+## técnica
+1. Parada de câmera (62)
+2. Mudança de eixo (16)
+3. Emenda (57)
+4. Cor (5)
+5. Comprimento
+6. Múltiplos planos
+7. *Plongée*
+8. *Travelling*
+9. Trucagem
 
-## Lieu
-1. abattoir
-2. arène
+## Local
+1. abatedouro
+2. arena
 3. arsenal
-4. campagne
-5. caserne
-6. champ de manoeuvres
-7. chantier
-8. Cinématographe (salle du)
-9. cours d'eau
-10. décor
-11. domicile
-12. école
-13. édifice religieux
-14. ferme
-15. gare
-16. hippodrome
-17. jardin
-18. lac
-19. marché
-20. mer
-21. montagne
-22. palais royal
-23. parc
-24. patinoire
-25. place
-26. plage
-27. pont
-28. port
-29. rue
-30. usine
-31. village noir (exposition)
-32. ville
-33. zoo
+4. campo
+5. caserna
+6. campo de manobras
+7. canteiro de obras
+8. Cinematógrafo (sala do)
+9. curso de água
+10. adorno
+11. domicílio
+12. escola
+13. edifício religioso
+14. fazenda
+15. estação
+16. hipódromo
+17. jardim
+18. lago
+19. mercado
+20. mar
+21. montanha
+22. palácio real
+23. parque
+24. pista de patinação
+25. pátio
+26. praia
+27. ponte
+28. porto
+29. rua
+30. usina
+31. cidade negra (exposição)
+32. cidade
+33. zoológico
 
-## Identities: 
+## Identidades: 
 
 55. Henry Walter Barnett
 
-## Texts:
+## Textos:
 Félix Mesguich
 Chiens savants
 
