@@ -10,17 +10,17 @@ Eis a explicação da tabela:
 
 1. "Numero-original": o número de catalogação do filme, tal como apareceu no catálogo Lumière.
 2. "Numero-livre": O número de item que foi usado pelos pesquisadores (Michelle Aubert e Jean-Claude Seguin) em seu livro "A produção cinematográfica dos Irmãos Lumière" (título original: "La production cinématographique des Frères Lumière"; tradução livre) em 1996.
-3. "titulo": O título do filme.
-4. "id-cinegrafista": identificação numérica do operador de câmera (cinegrafista).
-5. "cinegrafista": nome do cinegrafista.
-6. "notas": comentários e anotações.
-7. "descricao": a descrição original do item, extraída do catálogo Lumière.
-8. "projecao": informação sobre exibições (quando, onde...).
-9. "local": nomes de localizações legíveis por humanos (onde foi filmado).
-10. "id-pais": identificação de país.
-11. "id-cidade": identificação de cidade.
-12. "id-local": identificação de local (montanha, costa, estação de trem, zoológico...). 33 elementos.
-13. "data": data de produção legível por humanos.
+3. "titre": O título do filme.
+4. "id-operateur": identificação numérica do operador de câmera (cinegrafista).
+5. "operateur": nome do cinegrafista.
+6. "remarque": comentários e anotações.
+7. "description": a descrição original do item, extraída do catálogo Lumière.
+8. "projection": informação sobre exibições (quando, onde...).
+9. "lieu": nomes de localizações legíveis por humanos (onde foi filmado).
+10. "id-pays": identificação de país.
+11. "id-ville": identificação de cidade.
+12. "id-lieux": identificação de local (montanha, costa, estação de trem, zoológico...). 33 elementos.
+13. "date": data de produção legível por humanos.
 14. "timestamp": marcação de data legível por máquinas (data aproximada de produção).
 15. "info-1": metadados misteriosos.
 16. "info-2": metadados misteriosos.
@@ -29,17 +29,17 @@ Eis a explicação da tabela:
 19. "info-5": metadados misteriosos.
 20. "info-6": metadados misteriosos.
 21. "info-7": metadados misteriosos.
-22. "id-eventos": metadados misteriosos.
-23. "id-generos": metadados misteriosos. 14 elementos.
-24. "id-tema": tipos de pessoas (acrobatas, camponeses, crianças...).
-25. "id-identidade": identificação numérica de pessoas que aparecem no filme.
-26. "sequencia-1": metadados misteriosos.
-27. "sequencia-2": metadados misteriosos.
-28. "pessoas": notas sobre pessoas que aparecem no filme.
-29. "tecnica": detalhes técnicos sobre o processo de filmagem (movimentos de câmera, etc.).
-30. "id-objeto": motivos (trem, barco, máquinas...). 19 elementos.
-31. "id-mov": tipo de ação (chegada, partida...). 9 elementos.
-32. "suporte": detalhes técnicos sobre o negativo fílmico.
+22. "id-events": metadados misteriosos.
+23. "id-genres": metadados misteriosos. 14 elementos.
+24. "id-sujet": tipos de pessoas (acrobatas, camponeses, crianças...).
+25. "id-identity": identificação numérica de pessoas que aparecem no filme.
+26. "sequence-1": metadados misteriosos.
+27. "sequence-2": metadados misteriosos.
+28. "personnes": notas sobre pessoas que aparecem no filme.
+29. "techniques": detalhes técnicos sobre o processo de filmagem (movimentos de câmera, etc.).
+30. "id-objet": motivos (trem, barco, máquinas...). 19 elementos.
+31. "id-mouv": tipo de ação (chegada, partida...). 9 elementos.
+32. "support": detalhes técnicos sobre o negativo fílmico.
 
 ## Fonte dos dados
 
